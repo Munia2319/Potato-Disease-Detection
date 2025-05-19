@@ -1,4 +1,4 @@
-```markdown
+
 # 🥔 Potato Disease Detection using Deep Learning
 
 This project implements a Convolutional Neural Network (CNN) to detect and classify potato leaf diseases into three categories: **Early Blight**, **Late Blight**, and **Healthy**. The model is built using TensorFlow and Keras, with support for model training, evaluation, API serving, and mobile deployment.
@@ -6,8 +6,6 @@ This project implements a Convolutional Neural Network (CNN) to detect and class
 ---
 
 ## 📁 Project Structure
-
-```
 
 Potato-Disease-Detection/
 ├── training/                    # Jupyter Notebook for model training
@@ -17,8 +15,6 @@ Potato-Disease-Detection/
 ├── api/                        # Flask-based REST API
 ├── frontend/                   # Frontend web interface
 └── mobile-app/                 # Mobile app integration
-
-````
 
 ---
 
