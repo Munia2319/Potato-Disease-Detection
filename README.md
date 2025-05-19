@@ -65,11 +65,7 @@ The trained CNN model achieves strong accuracy on the PlantVillage dataset and p
 
 ---
 
-## 👩‍💻 Author
 
-**Musfika Ikfat Munia**
-📧 [mushfikaikfat1998@gmail.com](mailto:mushfikaikfat1998@gmail.com)
-🔗 [GitHub](https://github.com/Munia2319) | [LinkedIn](https://www.linkedin.com/in/musfika-munia/)
 
 
 
