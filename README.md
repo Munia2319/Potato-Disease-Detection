@@ -5,19 +5,6 @@ This project implements a Convolutional Neural Network (CNN) to detect and class
 
 ---
 
-## 📁 Project Structure
-
-Potato-Disease-Detection/
-├── training/                    # Jupyter Notebook for model training
-├── saved\_models/               # Trained model files
-├── test\_images\_from\_internet/  # Test images for prediction
-├── tf-lite-models/             # TensorFlow Lite conversion scripts
-├── api/                        # Flask-based REST API
-├── frontend/                   # Frontend web interface
-└── mobile-app/                 # Mobile app integration
-
----
-
 ## 🧠 Model Overview
 
 - **Input**: 256x256 RGB images  
